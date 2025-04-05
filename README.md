@@ -1,1 +1,1 @@
-# Online-Examination
+The present online examination system is designed to streamline the exam registration and administration process. Unlike traditional methods, this system is fully controlled by an admin, who manages all aspects of the system. Users (examinees) can only log in, select exams, write exams, view results, and provide feedback
